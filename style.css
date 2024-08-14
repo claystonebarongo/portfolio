@@ -118,6 +118,7 @@ justify-content: flex-start;
  height: 100vh;   
  text-align: center;
  background-image: url("images/IMG_9876~3.jpg");
+    background-attachment:fixed;
  background-size: cover;
  background-position:100% 100%;
  color: white; 
