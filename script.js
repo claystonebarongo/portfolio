@@ -50,6 +50,9 @@ messageElement.style.opacity=1;
 },1000);
 
 
+
+    
+
 }
 messageElement.textContent=messages[currentIndex].textContent;
 messageElement.style.opacity=1;
